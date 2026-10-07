@@ -237,7 +237,7 @@ button{ font-family: inherit; cursor: pointer; }
    ============================================ */
 .hero{
   padding: 96px 28px 40px;
-  background-image: linear-gradient(rgba(11, 31, 51, 0.115), rgba(3, 17, 30, 0.55)), url('/img/hero.jpg');
+  background-image: linear-gradient(rgba(11, 31, 51, 0.115), rgba(3, 17, 30, 0.55)), url('img/hero.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
